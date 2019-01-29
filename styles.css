@@ -58,14 +58,13 @@ ul.none {
   padding: 0;
 }
 .topbar {
-  height:31px;
   width:100%;
   position:fixed;
   z-index:1;
   top:0;
   left:0;
   overflow-y:hidden;
-  padding-top:20px;
+  padding-top:22px;
   background-color:black;
   text-align:right;
   height:0px;
