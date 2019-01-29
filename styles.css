@@ -39,11 +39,12 @@ a.cat {
 li.whbar {
   z-index:-1;
   width:5px;
-  background-color:lightgrey;
+  background-color:grey;
   transition:width 1s;
 }
 li.whbar:hover {
 	width:160px;
+	background-color:lightgrey;
 }
 .main {
   margin-top:60px;
@@ -80,11 +81,13 @@ ul.none {
   margin-bottom:30px;
   padding:15px 17px 15px 17px;
   color: #818181;
-  background-color:black;
+  background-color:gray;
+  color:lightgray;
   font-size:20px;
 }
 .topbar a:hover {
   background-color:lightgrey;
+  color:#818181;
 }
 .topsmall {
 	font-size:15;
