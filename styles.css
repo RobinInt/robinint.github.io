@@ -70,6 +70,16 @@ li.whbar:hover {
 	width:160px;
 	background-color:lightgrey;
 }
+li.whbarexept {
+  z-index:-1;
+  width:5px;
+  background-color:white;
+  transition:width 1s;
+}
+li.whbarexept:hover {
+	width:160px;
+	background-color:white;
+}
 .main {
   margin-top:60px;
   margin-left:160px;
