@@ -4,6 +4,9 @@ body {
 a {
 	text-decoration:none;
 }
+p {
+	text-indent:50px;	
+}
 .sidebar {
   height:110%;
   width:160px;
